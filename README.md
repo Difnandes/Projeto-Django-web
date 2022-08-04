@@ -7,3 +7,6 @@ Criando modelo de receitas em models.py onde atribultos molde salvo no banco de 
 Por fim, administrando o Django um crude completo e podendo criar, editar, deletar, atualizar e visualizar receitas da aplicação.
 
 Este foi um treinamento elaborado pela Alura com desponibilidade de material, fórum e vídeos sobre consultas e documentação Django.
+
+Fica a vontade aproveitar material !!!
+Aceito sugestões críticas e elogios !!!
