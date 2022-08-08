@@ -1,4 +1,4 @@
-# Projeto-Django-web - Parte 1
+# Projeto-Django-web - Parte 2
 
 Treinando como criar o primeiro ambiente virtual de desenvolvimento com aplicação Django.
 Aprendendo a trabalhar com virtualização e criação de servidor com Django. Como: cadastrá las em urls.py, além dos conceitos de views.
